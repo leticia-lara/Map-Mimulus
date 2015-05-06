@@ -1,0 +1,10 @@
+---
+title: "Mapeamento _Mimulus_ - Lista 6"
+author: "Letícia Lara"
+date: "06-05-2015"
+output: html_document
+---
+
+## Detalhamento das decisões tomadas no procedimento de mapeamento
+
+Teste
